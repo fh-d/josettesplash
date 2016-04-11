@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/frankirito/josettesplash/issues"
   },
-  "homepage": "https://github.com/frankirito/josettesplash#readme"
+  "homepage": "https://github.com/frankirito/josettesplash#readme",
+  "dependencies": {
+    "wiredep": "^4.0.0"
+  }
 }
